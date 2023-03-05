@@ -12,7 +12,7 @@ npm install
 npm run app:compile
 npm run app:run
 ```
-3. add header user-id to simulate authentication
+3. add header user-id(number) to simulate authentication
 
 ## Exercise
 You are helping a small company to write a service to help keep track of some To Do list
@@ -20,8 +20,8 @@ items. Using NodeJS and related frameworks, create the necessary APIs to create 
 list item AND reading To Do list items belong to a specific user.
 
 For this exercise, you can omit:
-    1. Authentication and Authorization
-    2. Security and Exception monitoring
+1. Authentication and Authorization
+2. Security and Exception monitoring
 
 The goal is for us to gain an understanding on your logic, approach to solve a problem and
 the level of your skillset in NodeJS.
